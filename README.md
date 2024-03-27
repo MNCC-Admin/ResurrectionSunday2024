@@ -1,1 +1,4 @@
-# ResurrectionSunday2024
+# WorshipSongList
+Legend:
+FF - Fixed Format
+E - Edited
